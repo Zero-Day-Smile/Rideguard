@@ -308,7 +308,7 @@ Architecture:
 ---
 
 ## System Architecture
-Mobile App -> API Gateway -> AI Risk Engine -> Parametric Trigger Engine -> Fraud Detection Layer -> Payment Processor -> Analytics Dashboard
+Mobile App → API Gateway → AI Risk Engine → Parametric Trigger Engine → Fraud Detection Layer → Payment Processor → Analytics Dashboard
 ---
 
 ## Development Plan
