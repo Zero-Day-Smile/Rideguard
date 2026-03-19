@@ -1,8 +1,6 @@
 # RideGuard — AI-Powered Weekly Income Protection for Delivery Partners
+## Protecting every ride, every shift, every week.
 
-**Protecting every ride, every shift, every week.**
-
----
 
 ## Overview
 
@@ -120,10 +118,11 @@ Outputs:
 
 Users choose coverage aligned with expected income.
 
-| Coverage | Weekly Premium |
-|---|---|
-| ₹4,000 protection | ₹65/week |
-| ₹6,000 protection | ₹92/week |
+| Plan | Income Protection | Weekly Premium | Logic |
+|---|---|---|---|
+| Basic | ₹1,500 | ₹25/week | Rain/day disruption |
+| Standard | ₹3,000 | ₹40/week | Multiple disruptions |
+| Plus | ₹5,000 | ₹55/week | Full-week protection |
 
 ---
 
